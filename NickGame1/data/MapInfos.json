@@ -9,5 +9,5 @@ null,
 {"id":7,"expanded":false,"name":"Snow Town","order":7,"parentId":8,"scrollX":811,"scrollY":461.5},
 {"id":8,"expanded":true,"name":"EXAMPLE_SCENES","order":2,"parentId":1,"scrollX":811,"scrollY":453.5},
 {"id":9,"expanded":false,"name":"PlayerTown_PlayerHouse","order":9,"parentId":2,"scrollX":1390.2857142857142,"scrollY":791.1428571428571},
-{"id":10,"expanded":false,"name":"PlayerTown_Inn","order":10,"parentId":2,"scrollX":816,"scrollY":792}
+{"id":10,"expanded":false,"name":"PlayerTown_Inn","order":10,"parentId":2,"scrollX":1376,"scrollY":672}
 ]
