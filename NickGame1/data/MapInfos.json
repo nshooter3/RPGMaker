@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Levels","order":1,"parentId":0,"scrollX":811,"scrollY":453.5},
-{"id":2,"expanded":true,"name":"PlayerTown","order":8,"parentId":1,"scrollX":973.1999999999999,"scrollY":790.1999999999999},
+{"id":2,"expanded":true,"name":"PlayerTown","order":8,"parentId":1,"scrollX":973.1999999999999,"scrollY":1702.1999999999998},
 {"id":3,"expanded":false,"name":"Normal Town","order":3,"parentId":8,"scrollX":861,"scrollY":986.5},
 {"id":4,"expanded":false,"name":"House 1","order":4,"parentId":8,"scrollX":1216.5,"scrollY":692.25},
 {"id":5,"expanded":false,"name":"Inn 1F","order":5,"parentId":8,"scrollX":1081.3333333333333,"scrollY":604.6666666666666},
@@ -9,8 +9,8 @@ null,
 {"id":7,"expanded":false,"name":"Snow Town","order":7,"parentId":8,"scrollX":811,"scrollY":461.5},
 {"id":8,"expanded":true,"name":"EXAMPLE_SCENES","order":2,"parentId":1,"scrollX":811,"scrollY":453.5},
 {"id":9,"expanded":false,"name":"PlayerTown_PlayerHouse","order":9,"parentId":2,"scrollX":973.1999999999999,"scrollY":544.1999999999999},
-{"id":10,"expanded":true,"name":"PlayerTown_Inn_F1","order":10,"parentId":2,"scrollX":1225.2,"scrollY":655.8},
-{"id":11,"expanded":false,"name":"PlayerTown_Inn_F2","order":11,"parentId":10,"scrollX":982.8,"scrollY":739.8},
-{"id":12,"expanded":true,"name":"PlayerTown_BaronHouse","order":12,"parentId":2,"scrollX":973.1999999999999,"scrollY":553.8},
+{"id":10,"expanded":true,"name":"PlayerTown_Inn_F1","order":10,"parentId":2,"scrollX":973.1999999999999,"scrollY":550.1999999999999},
+{"id":11,"expanded":false,"name":"PlayerTown_Inn_F2","order":11,"parentId":10,"scrollX":816,"scrollY":740},
+{"id":12,"expanded":true,"name":"PlayerTown_BaronHouse","order":12,"parentId":2,"scrollX":973.1999999999999,"scrollY":544.1999999999999},
 {"id":13,"expanded":false,"name":"PlayerTown_BaronHouse","order":13,"parentId":12,"scrollX":973.1999999999999,"scrollY":553.8}
 ]
